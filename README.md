@@ -14,4 +14,4 @@ Chromeから直接Twitterへツイートするようにできる拡張機能で�
 
 ## ライセンス
 
-MIT
+MIT License
